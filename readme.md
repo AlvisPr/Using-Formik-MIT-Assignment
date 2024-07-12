@@ -48,4 +48,4 @@ Checks if email is empty or doesn't match the email format (/\S+@\S+\.\S+/).Ensu
 
 ## License
 
-- This project is licensed under the MIT License. See the LICENSE file for details [here](./LICENSE).
+- This project is licensed under the MIT License. See the LICENSE file for details [here](./LICENSE.txt).
